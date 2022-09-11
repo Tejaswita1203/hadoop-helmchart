@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  hadoop-deployment:
+  - apiVersion: v1
+    created: "2022-09-11T16:59:28.7113666Z"
+    description: Install hadoop deployment manifests
+    digest: a6f405a4de40575c4647bcf4e3d304b0fc79d49383c86ac61729a62f486294d3
+    keywords:
+    - hadoop
+    maintainers:
+    - email: tejaswita1203@gmail.com
+      name: tejaswita soni
+    name: hadoop-deployment
+    urls:
+    - https://tejaswita1203.github.io/hadoop-helmchart/hadoop-deployment-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-09-11T16:59:28.7113666Z"
