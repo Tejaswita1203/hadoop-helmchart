@@ -1,0 +1,9 @@
+apiVersion: v1
+name: hadoop-deployment
+description: Install hadoop deployment manifests
+keywords:
+- hadoop
+version: 1.0.0
+maintainers:
+- name: tejaswita soni
+  email: tejaswita1203@gmail.com

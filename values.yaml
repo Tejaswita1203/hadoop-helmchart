@@ -1,0 +1,13 @@
+namespace:
+  name: hadoop-namespace
+
+service:
+  port: 50070
+  type: NodePort
+
+image:
+  repository: apache/hadoop
+  tag: 3
+  pullPolicy: Always
+
+replicaCount: 2
